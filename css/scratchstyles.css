@@ -1,0 +1,119 @@
+.my_serif_text {
+    font-family: serif;
+}
+body {
+    background-color: lightblue !important;
+  }
+  
+.my_special_color {
+    color: rgb(240, 7, 182) !important;
+
+}
+a{
+    color: rgba(7, 7, 8, 0.384) !important
+}
+
+.my_background_color {
+    background-color: rgb(5, 29, 66) !important
+}
+
+.my_text_color {
+    color:rgb(27, 73, 147) !important
+}
+
+.text_style {
+    font-size: 3px;
+}
+
+.backdrop_color{
+    background-color:rgb(138, 75, 143)!important
+}
+
+.heading_font {
+    font-size: x-large;
+    color: rgb(78, 3, 133);
+}
+.heading_2{
+    font-size: xx-large;
+    color: rgb(100, 0, 101);
+}
+.heading_3{
+    font-size:medium;
+    color: rgb(9, 146, 32);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.common_div {
+    background-color: rgb(86, 171, 104);
+    border: 2px solid;
+    padding: 2px;
+    text-align: center;
+    position: absolute;
+}
+
+.header_div{
+top: 5px;
+left: 5px;
+right: 5px;
+height:  100px;
+text-align: center;
+line-height: 100px;
+font-size: 35px;
+
+}
+
+.left_div {
+    top: 5px;
+    left: 700px;
+    width: 400px;
+    bottom: 800px;
+}
+
+.right_div{
+    top: 5px;
+    right: 10px;
+    width: 350px;
+    bottom: 550px;
+    text-align: center;
+}
+
+.main_div{
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom:114px;
+    
+}
+
+.footer {
+    bottom: 5px;
+    height: 100px;
+    left: 5px;
+    right: 5px; 
+
+}
+.links{
+    bottom: 600px;
+    top: 10px;
+    right: 10px;
+    width: 300px;
+}
+.go_to_center{
+    right: 300px;
+    left: 300px;
+    top: 30px;
+}
+.be_on_right{
+    right: 20px;
+    width: 150px;
+    top: 10px;
+    bottom: 675px;
+}
+.my_silly_links{
+    top: 100px;
+    left: 400px;
+    right: 400px;
+    bottom: 725px;
+}
